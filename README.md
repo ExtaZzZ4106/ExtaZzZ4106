@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hi👋, I'm Vladislav Gornostaev
 
+I'm a beginner developer specializing in Python and Java. Passionate about building robust applications and exploring new technologies.
+## Skills
+- Languages: Python, Java
+- Frameworks: Django
+- Databases: MySQL, SQLite, PostgeSQL
+- Tools: Git
 <!--
 **ExtaZzZ4106/ExtaZzZ4106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
