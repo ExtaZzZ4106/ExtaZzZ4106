@@ -2,8 +2,8 @@
 
 I'm a beginner developer specializing in Python and Java. Passionate about building robust applications and exploring new technologies.
 ## Skills
-- Languages: Python, Java
-- Frameworks: Django
+- Languages: Python, Java, HTML, CSS
+- Frameworks: Django, Sring Boot
 - Databases: MySQL, SQLite, PostgeSQL
 - Tools: Git
 <!--
